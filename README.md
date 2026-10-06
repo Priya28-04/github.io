@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Priyanka L Hittalamani**, a Computer Science and Engineering graduate (B.E., CGPA 8.76) focused on Generative AI and Machine Learning.
 
-**Live site:** https://priya28-04.github.io/portfolio/.
+**Live site:** https://priya28-04.github.io/portfolio/
 
 ---
 
@@ -43,17 +43,17 @@ HTML5, CSS3 (custom properties, grid, flexbox), vanilla JavaScript, Google Fonts
 No installation is needed. Download the repo and open `index.html` in any browser.
 
 ```bash
-git clone https://github.com/Priya28-04/Priya28-04.github.io.git
-cd Priya28-04.github.io
+git clone https://github.com/Priya28-04/portfolio.git
+cd portfolio
 # then open index.html in your browser
 ```
 
 ## Deploy on GitHub Pages
 
-1. Create a public repository named `Priya28-04.github.io`.
+1. Create a public repository named `portfolio`.
 2. Upload `index.html` (and this README).
 3. Go to **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/(root)`, then click **Save**.
-4. The site goes live at `https://priya28-04.github.io` within a couple of minutes.
+4. The site goes live at `https://priya28-04.github.io/portfolio/` within a couple of minutes.
 
 ## Project structure
 
