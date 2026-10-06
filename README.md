@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Priyanka L Hittalamani**, a Computer Science and Engineering graduate (B.E., CGPA 8.76) focused on Generative AI and Machine Learning.
 
-**Live site:** https://priya28-04.github.io
+**Live site:** https://priya28-04.github.io/portfolio/.
 
 ---
 
